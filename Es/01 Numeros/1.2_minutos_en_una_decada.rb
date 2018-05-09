@@ -5,6 +5,6 @@
 
 # Una década tiene 10 años
 # Un año tiene 365 días
-# Un día tiene 60 minutos
+# Un día tiene 60 minutos - Se debe corregir esto> <- un dia tiene 24 horas <- una hora tiene 60 minutos
 # Entonces: 1 década * 10 años * 365 días * 24 horas * 60 minutos
 puts 10 * 365 * 24 * 60
